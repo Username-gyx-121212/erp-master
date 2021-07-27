@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="erp-us-instance" />
+        <module name="erp-common" />
+        <module name="erp-core" />
+        <module name="erp-us-frg" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="erp-common" target="1.8" />
+      <module name="erp-core" target="1.8" />
+      <module name="erp-master" target="1.8" />
+      <module name="erp-us" target="1.8" />
+      <module name="erp-us-frg" target="1.8" />
+      <module name="erp-us-instance" target="1.8" />
+      <module name="erp-us-item" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="erp-common" options="-parameters" />
+      <module name="erp-core" options="-parameters" />
+      <module name="erp-master" options="-parameters" />
+      <module name="erp-us" options="-parameters" />
+      <module name="erp-us-frg" options="-parameters" />
+      <module name="erp-us-instance" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/erp-common/erp-common.iml" filepath="$PROJECT_DIR$/erp-common/erp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-core/erp-core.iml" filepath="$PROJECT_DIR$/erp-core/erp-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-master.iml" filepath="$PROJECT_DIR$/erp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-us/erp-us.iml" filepath="$PROJECT_DIR$/erp-us/erp-us.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-us/erp-us-frg/erp-us-frg.iml" filepath="$PROJECT_DIR$/erp-us/erp-us-frg/erp-us-frg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-us/erp-us-instance/erp-us-instance.iml" filepath="$PROJECT_DIR$/erp-us/erp-us-instance/erp-us-instance.iml" />
+    </modules>
+  </component>
+</project>
